@@ -23,4 +23,4 @@ LINK TO REPO: https://github.com/Milkdromeda-333/thghtfl-lbrrns
 
 TEAM SLACK channel: @ thghtfl_lbrrns
 
-TEAM-MEMBERS GITHUB: @idtran (Ian) @JazjayFlora (Jeanine) @quinn-madson (Quinn) @Milkdromeda-333 (Anjanique)
+TEAM-MEMBERS GITHUB: @idtran (Ian) @JazjayFlora (Jeanine) @quinn-madson (Quinn) https://www.linkedin.com/in/patrick-mireles-161a5367/ (Patrick) @Milkdromeda-333 (Anjanique)
